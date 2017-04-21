@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="LOL">
+        <item name="android:background">@color/ap_black</item>
+        <item name="backgroundColor">@color/ap_black</item>
+        <item name="graphBackgroundColor">@color/ap_black</item>
+        <item name="gridBackgroundColor">@color/ap_charcoal</item>
+        <item name="domainLineColor">@color/off_white</item>
+        <item name="rangeLineColor">@color/off_white</item>
+        <item name="domainOriginLineColor">@color/off_white</item>
+        <item name="rangeOriginLineColor">@color/off_white</item>
+        <item name="lineLabelTextColorTop">@color/off_white</item>
+        <item name="lineLabelTextColorBottom">@color/off_white</item>
+        <item name="lineLabelTextColorLeft">@color/off_white</item>
+        <item name="lineLabelTextColorRight">@color/off_white</item>
+        <item name="titleTextColor">@color/ap_white</item>
+        <item name="domainTitleTextColor">@color/ap_white</item>
+        <item name="rangeTitleTextColor">@color/ap_white</item>
+        <item name="legendTextColor">@color/ap_white</item>
+    </style>
+
+</resources>
